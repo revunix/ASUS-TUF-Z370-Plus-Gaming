@@ -1,8 +1,5 @@
 ## ASUS TUF Z370 Plus Gaming hackintosh w/ OpenCore
 
-![alt text](https://github.com/revunix/GIGABYTE-Z390M/blob/main/images/aboutmac.png?raw=true)
-
-
 [![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
 
 
